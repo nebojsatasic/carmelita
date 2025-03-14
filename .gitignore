@@ -1,0 +1,3 @@
+/other/
+# Ignore the file containing database configuration
+/app/core/init.php
