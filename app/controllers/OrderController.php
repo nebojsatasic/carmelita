@@ -4,7 +4,7 @@ class OrderController extends Controller
 {
     public static $db;
 
-    /**
+    /*
      * OrderController constructor
      */
     public function __construct()
